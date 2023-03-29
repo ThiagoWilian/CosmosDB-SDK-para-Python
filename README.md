@@ -9,3 +9,7 @@ O Emulador do Cosmos DB permite que você desenvolva e teste suas aplicações l
 ## SDK do Cosmos DB para Python
 
 O SDK do Cosmos DB para Python é uma biblioteca que permite aos desenvolvedores interagirem com o Cosmos DB usando a linguagem Python.
+
+
+## Instale o pacote do Azure Cosmos DB
+pip install azure-cosmos
