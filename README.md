@@ -12,4 +12,4 @@ O SDK do Cosmos DB para Python é uma biblioteca que permite aos desenvolvedores
 
 
 ## Instale o pacote do Azure Cosmos DB
-pip install azure-cosmos
+`pip install azure-cosmos`
