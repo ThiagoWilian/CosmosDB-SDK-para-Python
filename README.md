@@ -1,2 +1,2 @@
 # CosmosDB-SDK-para-Python
-Manipulação 
+Manipulação do emulador do Cosmos DB com o Python
